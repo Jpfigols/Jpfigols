@@ -15,8 +15,8 @@ Tenho 21 anos, sou estudante de Ciências da Computação e moro em São Paulo/S
 
 <p align="center">
 <a href="https://github.com/Jpfigols">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jpfigols&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jpfigols&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jpfigols&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jpfigols&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -27,40 +27,3 @@ Tenho 21 anos, sou estudante de Ciências da Computação e moro em São Paulo/S
 <a href = "mailto:jpfigols@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/jpfigols" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Jpfigols/Jpfigols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
