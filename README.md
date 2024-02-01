@@ -15,8 +15,8 @@ Tenho 21 anos, sou estudante de Ciências da Computação e moro em São Paulo/S
 
 <p align="center">
 <a href="https://github.com/Jpfigols">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jpfigols&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jpfigols&layout=compact&langs_count=8&theme=algolia"/>
+  <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpfigols&layout=compact&langs_count=7&theme=vue"/>
+  <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=Jpfigols&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
