@@ -25,6 +25,5 @@ Tenho 21 anos, sou estudante de Ciências da Computação e moro em São Paulo/S
 <p align="left">
 <div>
 <a href = "mailto:jpfigols@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "www.linkedin.com/in/jpfigols"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/jpfigols" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
