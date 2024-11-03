@@ -1,5 +1,5 @@
 <h1 align="left">João Pedro Figols</h1>
-Tenho 21 anos, sou estudante de Ciências da Computação e moro em São Paulo/SP.
+Tenho 22 anos, sou estudante de Ciências da Computação e moro em São Paulo/SP.
 </br>
 </br>
 </br>
